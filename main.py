@@ -1,5 +1,3 @@
-print("You will need runpy installed to use this screen, so make sure it is installed.")
-
 import runpy
 
 def main():
